@@ -2,13 +2,7 @@
 
 Chess Knight Game built with React, JavaScript
 
-![image](https://user-images.githubusercontent.com/56345848/152890648-e9506b97-79e0-45e0-940e-7c4459ef34a4.png)
-
-
-
-### Continuous Improvement Point: 
-
- - When clicked on Help, it generates minimum path to the target based on current knight's position. When it renders each move, it happens to quickly but wanted to show each move respectively on screen
+![ScreenRecording2025-03-12at1 32 28pm-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dad19e14-e2a6-4c77-98f4-b8be74e39fd6)
 
 ### Reference:
 
